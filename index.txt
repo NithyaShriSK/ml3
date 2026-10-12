@@ -1,0 +1,2 @@
+download dataset from-->https://www.kaggle.com/datasets/mragpavank/diabetes
+pip install pandas scikit-learn
